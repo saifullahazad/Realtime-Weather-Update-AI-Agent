@@ -13,7 +13,7 @@ WeatherGenie CLI is a domain-specific command-line application that serves as yo
 ## Project Structure
 
 ```
-WeatherGenie-CLI/
+Realtime-Weather-Update-AI-Agent/
 ├── .env                # Environment variables (e.g., API keys)
 ├── weather_api.py      # Module to call the live weather API
 ├── agent.py            # Contains decision making and final response composition
@@ -27,8 +27,8 @@ WeatherGenie-CLI/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/WeatherGenie-CLI.git
-   cd WeatherGenie-CLI
+   git clone https://github.com/yourusername/Realtime-Weather-Update-AI-Agent.git
+   cd Realtime-Weather-Update-AI-Agent
    ```
 
 2. **Create and Activate a Virtual Environment:**
